@@ -1,20 +1,11 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0005-longest-palindromic-substring) |
-## String
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0005-longest-palindromic-substring) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0005-longest-palindromic-substring) |
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0009-palindrome-number) |
-<!---LeetCode Topics End-->
+# LeetCode
+
+This repository contains my solutions to LeetCode problems.
+
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+
+ Happy coding! 🚀
