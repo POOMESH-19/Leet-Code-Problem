@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0048-rotate-image) |
 | [2756-buy-two-chocolates](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2756-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -23,4 +24,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2756-buy-two-chocolates) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
