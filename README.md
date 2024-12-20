@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0073-set-matrix-zeroes) |
 | [2756-buy-two-chocolates](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2756-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -32,4 +33,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
