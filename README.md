@@ -27,4 +27,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
