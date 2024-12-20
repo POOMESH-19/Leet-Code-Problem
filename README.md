@@ -35,4 +35,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
