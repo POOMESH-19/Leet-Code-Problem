@@ -9,15 +9,3 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0056-merge-intervals) |
-| [0228-summary-ranges](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0228-summary-ranges) |
-## Sorting
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0056-merge-intervals) |
-<!---LeetCode Topics End-->
