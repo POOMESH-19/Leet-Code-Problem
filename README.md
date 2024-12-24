@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0128-longest-consecutive-sequence) |
+<!---LeetCode Topics End-->
