@@ -9,3 +9,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1646-kth-missing-positive-number) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1646-kth-missing-positive-number) |
+<!---LeetCode Topics End-->
