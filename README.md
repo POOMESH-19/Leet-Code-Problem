@@ -19,4 +19,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Math
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
