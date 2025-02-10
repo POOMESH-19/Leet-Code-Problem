@@ -9,14 +9,3 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1071-binary-prefix-divisible-by-5](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1071-binary-prefix-divisible-by-5) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1071-binary-prefix-divisible-by-5](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1071-binary-prefix-divisible-by-5) |
-<!---LeetCode Topics End-->
