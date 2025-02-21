@@ -1,48 +1,24 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int majority1 = 0;
-        int majority2 = 0;
-        int count1 = 0;
-        int count2 = 0;
-
-        for (const int num : nums) {
-            if (num == majority1) {
-                count1++;
-            } else if (num == majority2) {
-                count2++;
-            } else if (count1 == 0) {
-                majority1 = num;
-                count1++;
-            } else if (count2 == 0) {
-                majority2 = num;
-                count2++;
-            } else {
-                count1--;
-                count2--;
-            }
+        int c1 = 0, c2 = 0, p = 0, v = 0;
+        for (auto num : nums) {
+            if (c1 == num) p++;
+            else if (c2 == num) v++;
+            else if (p == 0) c1 = num, p = 1;
+            else if (v == 0) c2 = num, v = 1;
+            else p--, v--;
         }
-
-        count1 = 0;
-        count2 = 0;
-
-        for (const int num : nums) {
-            if (num == majority1) {
-                count1++;
-            } else if (num == majority2) {
-                count2++;
-            }
+        p = v = 0;
+        for (int num : nums) {
+            if (num == c1) p++;
+            else if (num == c2) v++;
         }
-
-        std::vector<int> res;
-
-        if (count1 > nums.size() / 3) {
-            res.push_back(majority1);
-        }
-        if (count2 > nums.size() / 3) {
-            res.push_back(majority2);
-        }
-
-        return res;        
+        
+        vector<int> ans;
+        if (p > nums.size() / 3) ans.push_back(c1);
+        if (v > nums.size() / 3) ans.push_back(c2);
+        
+        return ans;
     }
 };
