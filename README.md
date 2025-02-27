@@ -27,4 +27,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
