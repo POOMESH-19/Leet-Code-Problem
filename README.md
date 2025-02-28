@@ -23,4 +23,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Tree
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Depth-First Search
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Graph
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 <!---LeetCode Topics End-->
