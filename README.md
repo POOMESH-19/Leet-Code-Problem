@@ -39,4 +39,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## String
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
