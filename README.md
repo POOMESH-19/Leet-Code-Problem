@@ -59,4 +59,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
+## Database
+|  |
+| ------- |
+| [1670-patients-with-a-condition](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
