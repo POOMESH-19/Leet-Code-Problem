@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -75,4 +76,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+## Greedy
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
