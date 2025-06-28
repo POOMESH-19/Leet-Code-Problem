@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0013-roman-to-integer) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -50,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0013-roman-to-integer) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -75,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0013-roman-to-integer) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Sliding Window
