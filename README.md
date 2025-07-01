@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0045-jump-game-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [0495-teemo-attacking](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0495-teemo-attacking) |
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0045-jump-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Two Pointers
@@ -93,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0045-jump-game-ii) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
