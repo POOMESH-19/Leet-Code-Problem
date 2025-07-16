@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3194-find-words-containing-character) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
