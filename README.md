@@ -72,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0392-is-subsequence) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
