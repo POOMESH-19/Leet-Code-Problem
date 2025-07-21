@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0495-teemo-attacking](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0665-non-decreasing-array) |
+| [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -176,4 +177,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
