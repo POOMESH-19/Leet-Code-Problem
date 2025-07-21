@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0045-jump-game-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0045-jump-game-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [0495-teemo-attacking](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
@@ -56,10 +57,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Graph
 |  |
@@ -165,4 +168,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
