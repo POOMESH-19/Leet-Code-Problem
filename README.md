@@ -121,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0013-roman-to-integer) |
+| [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -161,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
 ## Sorting
 |  |
 | ------- |
