@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3194-find-words-containing-character](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3194-find-words-containing-character) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0495-teemo-attacking](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0495-teemo-attacking) |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
+| [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -213,4 +216,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
