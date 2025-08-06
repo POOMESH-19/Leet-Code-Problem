@@ -88,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -139,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
+| [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2383-add-two-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2383-add-two-integers) |
 | [2619-categorize-box-according-to-criteria](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2619-categorize-box-according-to-criteria) |
@@ -185,6 +187,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0406-queue-reconstruction-by-height) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
+| [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
