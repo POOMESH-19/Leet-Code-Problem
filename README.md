@@ -133,6 +133,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0060-permutation-sequence) |
 | [0343-integer-break](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -243,4 +244,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0406-queue-reconstruction-by-height) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
