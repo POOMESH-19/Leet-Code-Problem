@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0045-jump-game-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
 | [0406-queue-reconstruction-by-height](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0406-queue-reconstruction-by-height) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
@@ -206,6 +207,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0137-single-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
