@@ -144,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0013-roman-to-integer](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
@@ -217,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -267,6 +269,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
