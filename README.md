@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2163-kth-distinct-string-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3194-find-words-containing-character) |
@@ -154,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2383-add-two-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2619-categorize-box-according-to-criteria](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2619-categorize-box-according-to-criteria) |
 | [3830-find-closest-person](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3859-maximum-product-of-two-digits) |
