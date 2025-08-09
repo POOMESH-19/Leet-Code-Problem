@@ -271,6 +271,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
 ## Design
 |  |
@@ -280,4 +281,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0535-encode-and-decode-tinyurl) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
