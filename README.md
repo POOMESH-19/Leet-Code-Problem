@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0733-flood-fill](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0822-unique-morse-code-words) |
+| [0827-expressive-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0827-expressive-words) |
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
@@ -105,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0521-longest-uncommon-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0535-encode-and-decode-tinyurl) |
 | [0822-unique-morse-code-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0822-unique-morse-code-words) |
+| [0827-expressive-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0827-expressive-words) |
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
@@ -139,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0392-is-subsequence) |
+| [0827-expressive-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0827-expressive-words) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
