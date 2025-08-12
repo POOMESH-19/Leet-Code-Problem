@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0940-fruit-into-baskets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1813-maximum-erasure-value](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1813-maximum-erasure-value) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -59,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0822-unique-morse-code-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0822-unique-morse-code-words) |
 | [0940-fruit-into-baskets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1813-maximum-erasure-value](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -71,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Tree
@@ -219,6 +222,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0406-queue-reconstruction-by-height](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0406-queue-reconstruction-by-height) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
