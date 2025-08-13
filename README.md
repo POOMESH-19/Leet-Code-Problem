@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0822-unique-morse-code-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0822-unique-morse-code-words) |
 | [0827-expressive-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0827-expressive-words) |
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
+| [0926-find-and-replace-pattern](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -58,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0535-encode-and-decode-tinyurl](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0822-unique-morse-code-words) |
+| [0926-find-and-replace-pattern](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -110,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0535-encode-and-decode-tinyurl](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0535-encode-and-decode-tinyurl) |
 | [0822-unique-morse-code-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0822-unique-morse-code-words) |
 | [0827-expressive-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0827-expressive-words) |
+| [0926-find-and-replace-pattern](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0926-find-and-replace-pattern) |
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
