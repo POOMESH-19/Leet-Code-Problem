@@ -165,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0060-permutation-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -294,6 +295,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0060-permutation-sequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0326-power-of-three) |
 ## Design
 |  |
 | ------- |
