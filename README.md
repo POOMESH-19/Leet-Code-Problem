@@ -120,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1302-delete-characters-to-make-fancy-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3194-find-words-containing-character) |
@@ -178,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2619-categorize-box-according-to-criteria](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2619-categorize-box-according-to-criteria) |
@@ -200,6 +202,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
