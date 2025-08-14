@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -289,10 +291,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0406-queue-reconstruction-by-height) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
