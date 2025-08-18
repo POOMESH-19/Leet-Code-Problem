@@ -173,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0279-perfect-squares](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0343-integer-break) |
+| [0372-super-pow](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
@@ -320,4 +321,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
