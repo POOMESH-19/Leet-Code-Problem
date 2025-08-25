@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
 | [0926-find-and-replace-pattern](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0940-fruit-into-baskets) |
+| [0968-beautiful-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0968-beautiful-array) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -184,6 +185,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0504-base-7](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0504-base-7) |
 | [0830-largest-triangle-area](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0830-largest-triangle-area) |
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
+| [0968-beautiful-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0968-beautiful-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2383-add-two-integers) |
@@ -329,4 +331,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0372-super-pow) |
+| [0968-beautiful-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0968-beautiful-array) |
 <!---LeetCode Topics End-->
