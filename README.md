@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
