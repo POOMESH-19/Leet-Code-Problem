@@ -264,6 +264,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0231-power-of-two](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0899-binary-gap](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0899-binary-gap) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Union Find
