@@ -56,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3791-fruits-into-baskets-iii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
@@ -217,6 +219,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -284,12 +287,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0316-remove-duplicate-letters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
 | ------- |
