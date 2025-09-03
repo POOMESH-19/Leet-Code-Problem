@@ -199,6 +199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [0968-beautiful-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0968-beautiful-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1879-maximum-score-from-removing-stones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -224,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1879-maximum-score-from-removing-stones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -235,6 +237,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1879-maximum-score-from-removing-stones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1879-maximum-score-from-removing-stones) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Memoization
