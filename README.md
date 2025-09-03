@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
 | [0485-max-consecutive-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0665-non-decreasing-array) |
@@ -66,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0036-valid-sudoku) |
 | [0447-number-of-boomerangs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0447-number-of-boomerangs) |
+| [0496-next-greater-element-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0822-unique-morse-code-words) |
@@ -294,6 +296,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -302,6 +305,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
