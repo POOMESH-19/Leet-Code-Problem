@@ -140,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -267,6 +268,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2887-sort-vowels-in-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
