@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -301,6 +302,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0899-binary-gap](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0899-binary-gap) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Union Find
 |  |
 | ------- |
@@ -380,4 +382,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
