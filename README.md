@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0968-beautiful-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0968-beautiful-array) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
