@@ -151,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3194-find-words-containing-character) |
@@ -192,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0498-diagonal-traverse](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0498-diagonal-traverse) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
