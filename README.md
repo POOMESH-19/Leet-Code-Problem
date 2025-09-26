@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0496-next-greater-element-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0611-valid-triangle-number) |
 | [0665-non-decreasing-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0665-non-decreasing-array) |
 | [0733-flood-fill](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
@@ -185,6 +186,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0611-valid-triangle-number) |
 | [0827-expressive-words](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0827-expressive-words) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [2551-apply-operations-to-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2551-apply-operations-to-an-array) |
@@ -246,6 +248,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0045-jump-game-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0979-di-string-match) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -276,6 +279,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0400-nth-digit](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0400-nth-digit) |
+| [0611-valid-triangle-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0611-valid-triangle-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3791-fruits-into-baskets-iii) |
@@ -284,6 +288,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0406-queue-reconstruction-by-height) |
 | [0594-longest-harmonious-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0611-valid-triangle-number) |
 | [0935-orderly-queue](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0935-orderly-queue) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
