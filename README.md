@@ -44,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1227-number-of-equivalent-domino-pairs](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -175,6 +176,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0343-integer-break](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -329,6 +331,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0733-flood-fill) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
