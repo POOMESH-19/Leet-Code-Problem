@@ -198,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0495-teemo-attacking](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -227,6 +228,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0968-beautiful-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0968-beautiful-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1642-water-bottles) |
 | [1879-maximum-score-from-removing-stones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2383-add-two-integers) |
