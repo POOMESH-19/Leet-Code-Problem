@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1813-maximum-erasure-value) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2048-build-array-from-permutation) |
@@ -177,6 +178,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -334,6 +336,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0498-diagonal-traverse](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1628-count-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -341,6 +344,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0316-remove-duplicate-letters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -350,6 +354,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0316-remove-duplicate-letters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/1628-count-submatrices-with-all-ones) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
