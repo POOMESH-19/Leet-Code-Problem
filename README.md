@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3242-count-elements-with-maximum-frequency](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3791-fruits-into-baskets-iii) |
@@ -96,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3242-count-elements-with-maximum-frequency](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -238,6 +240,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2619-categorize-box-according-to-criteria](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3859-maximum-product-of-two-digits) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3879-find-minimum-log-transportation-cost) |
