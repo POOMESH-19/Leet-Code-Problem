@@ -167,6 +167,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3462-vowels-game-in-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
@@ -240,6 +241,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2619-categorize-box-according-to-criteria](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3859-maximum-product-of-two-digits) |
@@ -414,4 +416,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/POOMESH-19/Leet-Code-Problem/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
